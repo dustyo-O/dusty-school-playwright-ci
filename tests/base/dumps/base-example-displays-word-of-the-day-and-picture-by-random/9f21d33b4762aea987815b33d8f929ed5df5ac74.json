@@ -1,0 +1,105 @@
+[
+  {
+    "id": "jYeznJBMC80",
+    "slug": "a-kitchen-shelf-displays-dishes-glasses-and-jars-jYeznJBMC80",
+    "alternative_slugs": {
+      "en": "a-kitchen-shelf-displays-dishes-glasses-and-jars-jYeznJBMC80",
+      "es": "un-estante-de-la-cocina-muestra-platos-vasos-y-frascos-jYeznJBMC80",
+      "ja": "キッチンの棚には食器グラス瓶が飾られています-jYeznJBMC80",
+      "fr": "une-etagere-de-cuisine-presente-des-plats-des-verres-et-des-bocaux-jYeznJBMC80",
+      "it": "uno-scaffale-da-cucina-espone-piatti-bicchieri-e-barattoli-jYeznJBMC80",
+      "ko": "부엌-선반에는-접시-유리잔-항아리가-진열되어-있습니다-jYeznJBMC80",
+      "de": "in-einem-kuchenregal-stehen-geschirr-glaser-und-glaser-jYeznJBMC80",
+      "pt": "uma-prateleira-de-cozinha-exibe-pratos-copos-e-potes-jYeznJBMC80"
+    },
+    "created_at": "2025-04-23T16:43:51Z",
+    "updated_at": "2025-05-21T15:45:32Z",
+    "promoted_at": "2025-04-24T00:05:00Z",
+    "width": 2267,
+    "height": 3400,
+    "color": "#d9d9d9",
+    "blur_hash": "LdIhHWs:ofWVM{e.aeWq_NWWWVjY",
+    "description": "Farmhouse Kitchen 2/2 (IG: @clay.banks)",
+    "alt_description": "A kitchen shelf displays dishes, glasses, and jars.",
+    "breadcrumbs": [ ],
+    "urls": {
+      "raw": "https://images.unsplash.com/photo-1745426431524-20bcfc35021b?ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8&ixlib=rb-4.1.0",
+      "full": "https://images.unsplash.com/photo-1745426431524-20bcfc35021b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8&ixlib=rb-4.1.0&q=85",
+      "regular": "https://images.unsplash.com/photo-1745426431524-20bcfc35021b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8&ixlib=rb-4.1.0&q=80&w=1080",
+      "small": "https://images.unsplash.com/photo-1745426431524-20bcfc35021b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8&ixlib=rb-4.1.0&q=80&w=400",
+      "thumb": "https://images.unsplash.com/photo-1745426431524-20bcfc35021b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1745426431524-20bcfc35021b"
+    },
+    "links": {
+      "self": "https://api.unsplash.com/photos/a-kitchen-shelf-displays-dishes-glasses-and-jars-jYeznJBMC80",
+      "html": "https://unsplash.com/photos/a-kitchen-shelf-displays-dishes-glasses-and-jars-jYeznJBMC80",
+      "download": "https://unsplash.com/photos/jYeznJBMC80/download?ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8",
+      "download_location": "https://api.unsplash.com/photos/jYeznJBMC80/download?ixid=M3wyNjA2MzJ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4NDkxNzh8"
+    },
+    "likes": 75,
+    "liked_by_user": false,
+    "current_user_collections": [ ],
+    "sponsorship": null,
+    "topic_submissions": { },
+    "asset_type": "photo",
+    "user": {
+      "id": "rUXhgOTUmb0",
+      "updated_at": "2025-05-13T02:56:09Z",
+      "username": "claybanks",
+      "name": "Clay Banks",
+      "first_name": "Clay",
+      "last_name": "Banks",
+      "twitter_username": "ClayBanks",
+      "portfolio_url": "http://claybanks.info",
+      "bio": "📷 Freelance Photog\r\n📍 Catskill Mountains NY   🌎 Presets & Prints 👉🏽 https://claybanks.info  If you use my images and would like to say thanks, feel free to donate via the PayPal link on my profile",
+      "location": "New York",
+      "links": {
+        "self": "https://api.unsplash.com/users/claybanks",
+        "html": "https://unsplash.com/@claybanks",
+        "photos": "https://api.unsplash.com/users/claybanks/photos",
+        "likes": "https://api.unsplash.com/users/claybanks/likes",
+        "portfolio": "https://api.unsplash.com/users/claybanks/portfolio"
+      },
+      "profile_image": {
+        "small": "https://images.unsplash.com/profile-1670236743900-356b1ee0dc42image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=32&h=32",
+        "medium": "https://images.unsplash.com/profile-1670236743900-356b1ee0dc42image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=64&h=64",
+        "large": "https://images.unsplash.com/profile-1670236743900-356b1ee0dc42image?ixlib=rb-4.1.0&crop=faces&fit=crop&w=128&h=128"
+      },
+      "instagram_username": "clay.banks",
+      "total_collections": 39,
+      "total_likes": 520,
+      "total_photos": 1665,
+      "total_promoted_photos": 777,
+      "total_illustrations": 0,
+      "total_promoted_illustrations": 0,
+      "accepted_tos": true,
+      "for_hire": true,
+      "social": {
+        "instagram_username": "clay.banks",
+        "portfolio_url": "http://claybanks.info",
+        "twitter_username": "ClayBanks",
+        "paypal_email": null
+      }
+    },
+    "exif": {
+      "make": "SONY",
+      "model": "ILCE-7M4",
+      "name": "SONY, ILCE-7M4",
+      "exposure_time": "1/125",
+      "aperture": "5.6",
+      "focal_length": "35.0",
+      "iso": 400
+    },
+    "location": {
+      "name": "Parksville, NY, USA",
+      "city": "Parksville",
+      "country": "United States",
+      "position": {
+        "latitude": 41.855367,
+        "longitude": -74.759605
+      }
+    },
+    "views": 520216,
+    "downloads": 2270
+  }
+]
