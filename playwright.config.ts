@@ -34,6 +34,10 @@ export default defineConfig({
     screenshot: 'on-first-failure',
   },
 
+  expect: {
+    toHaveScreenshot: { maxDiffPixels: 1, threshold: 0.001 },
+  },
+
   /* Configure projects for major browsers */
   projects: [
     {
