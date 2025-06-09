@@ -1,7 +1,7 @@
 name: Build and Deploy to Netlify
 on:
-  pull_request:
-    branches: [ develop ]
+  push:
+    branches: [ main ]
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -19,6 +19,7 @@ jobs:
         with:
           publish-dir: './dist'
           production-branch: main
+          production-deploy: true
           github-token: ${{ secrets.NETLIFY_GITHUB_TOKEN }}
           deploy-message: "Deploy from GitHub Actions"
           enable-pull-request-comment: true
